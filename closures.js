@@ -49,7 +49,7 @@ function Result()
 
 
 /*
-ATTENTION: variable "main" is known to the ananymous function within "topic"
+ATTENTION: variable "main" is known to the ananymous function within "Topic"
 */
 function Topic(main)
 {
